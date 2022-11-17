@@ -1,0 +1,3 @@
+D:/percabangan/cmake-build-debug/CMakeFiles/percabangan.dir
+D:/percabangan/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/percabangan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
